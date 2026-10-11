@@ -1,7 +1,14 @@
 [
   {
     "title": "あおいそらにえをかこう",
-    "artist": "上柴はじめ/早川史郎",
-    "url": "https://sn-okumura.github.io/karaoke-apps-test/aoisoraniewokakou.musicxml"
+    "artist": "上柴はじめ 作曲/早川史郎 作詩",
+    "url": "https://sn-okumura.github.io/karaoke-apps-test/aoisoraniewokakou.musicxml",
+    "": "aoisoraniewokakou.musicxml"
+  },
+  {
+    "title": "赤いやねの家",
+    "artist": "上柴はじめ 作曲/早川史郎 作詩",
+    "url": "https://sn-okumura.github.io/karaoke-apps-test/akaiyanenoie.musicxml",
+    "": "akaiyanenoie.musicxml"
   }
 ]
