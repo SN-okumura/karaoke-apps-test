@@ -24,7 +24,7 @@
     "artist": "名取和彦 作詩/岩河智子 作曲",
     "name": "",
     "url": "https://sn-okumura.github.io/karaoke-apps-test/akachanazarashi.musicxml",
-    "lrcurl": "",
+    "lrcUrl": "",
     "": "https://sn-okumura.github.io/karaoke-apps-test/",
     "musicxml": "akachanazarashi.musicxml",
     "lrc": ""
@@ -34,7 +34,7 @@
     "artist": "一樹 和美 作詩/上柴 はじめ 作曲/早川 史郎 編曲",
     "name": "",
     "url": "https://sn-okumura.github.io/karaoke-apps-test/a001.mp3",
-    "lrcurl": "https://sn-okumura.github.io/karaoke-apps-test/a001.lrc",
+    "lrcUrl": "https://sn-okumura.github.io/karaoke-apps-test/a001.lrc",
     "": "https://sn-okumura.github.io/karaoke-apps-test/",
     "musicxml": "a001.mp3",
     "lrc": "a001.lrc"
